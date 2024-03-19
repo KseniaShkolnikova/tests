@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3A2D2/ZW9sRaiKkSSZdVGpuv+JpiQsJdIciqLdnVY3lsPjRzdenP6HU0u97KlVPB8jKpnSRfPn0E3png7PDJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\source\\repos\\tesiki\\tesiki\\tesiki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
