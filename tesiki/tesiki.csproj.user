@@ -7,33 +7,39 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="gg.xaml.cs">
+    <Compile Update="View\gg.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="netu.xaml.cs">
+    <Compile Update="View\gg2.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="prohod.xaml.cs">
+    <Compile Update="View\netu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="redaktor.xaml.cs">
+    <Compile Update="View\prohod.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\redaktor.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="gg.xaml">
+    <Page Update="View\gg.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="View\gg2.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="netu.xaml">
+    <Page Update="View\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="prohod.xaml">
+    <Page Update="View\netu.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="redaktor.xaml">
+    <Page Update="View\prohod.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\redaktor.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
